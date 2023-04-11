@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Poppins', sans-serif;
+  src: 
+  url("../fonts/Poppins-RegularItalic.woff2") format("woff2"),
+  url("../fonts/Poppins-RegularItalic.woff") format('woff'),
+  url("../fonts/Poppins-RegularItalic.ttf") format('truetype'),
+  url("../fonts/Poppins-RegularItalic.otf") format('opentype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Poppins', sans-serif;
+  src: 
+  url("../fonts/Poppins-Bold.woff2") format("woff2"),
+  url("../fonts/Poppins-Bold.woff") format('woff'),
+  url("../fonts/Poppins-Bold.ttf") format('truetype'),
+  url("../fonts/Poppins-Bold.otf") format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Poppins', sans-serif;
+  src: 
+  url("../fonts/Poppins-ExtraBoldItalic.woff2") format("woff2"),
+  url("../fonts/Poppins-ExtraBoldItalic.woff") format('woff'),
+  url("../fonts/Poppins-ExtraBoldItalic.ttf") format('truetype'),
+  url("../fonts/Poppins-ExtraBoldItalic.otf") format('opentype');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Poppins', sans-serif;
+  src: 
+  url("../fonts/Poppins-BlackItalic.woff2") format("woff2"),
+  url("../fonts/Poppins-BlackItalic.woff") format('woff'),
+  url("../fonts/Poppins-BlackItalic.ttf") format('truetype'),
+  url("../fonts/Poppins-BlackItalic.otf") format('opentype');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

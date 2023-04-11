@@ -43,8 +43,8 @@ function browsersync() {
 
 function cleanDist() {
   return src([
-    'docs/css/style.min.css',
-    'docs/js/main.min.js',
+    'docs/css/*.min.css',
+    'docs/js/*.min.js',
     'docs/**/*.html',
     'docs/**/*.webp',
     'docs/**/*.svg',
